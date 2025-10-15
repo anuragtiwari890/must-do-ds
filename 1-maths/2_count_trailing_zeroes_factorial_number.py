@@ -2,9 +2,10 @@
 
 # Count Trailing Zeroes in Factorial of a Number
 
-# Problem Statement:
+# ------------------------------------------------------------------------------------------------
 
-# Given an integer n, we have to returns count of trailing zeroes in n! . 
+# Problem Statement:
+    # Given an integer n, we have to returns count of trailing zeroes in n! . 
 
 # ------------------------------------------------------------------------------------------------
 

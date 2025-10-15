@@ -5,7 +5,7 @@
 # ------------------------------------------------------------------------------------------------
 
 # problem statement:
-# Given a positive integer N, find the Nth natural number after removing all numbers consisting of the digit 9.
+    # Given a positive integer N, find the Nth natural number after removing all numbers consisting of the digit 9.
 
 # ------------------------------------------------------------------------------------------------
 

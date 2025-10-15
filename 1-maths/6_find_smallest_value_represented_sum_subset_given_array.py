@@ -5,8 +5,8 @@
 # ------------------------------------------------------------------------------------------------
 
 # problem statement:
-# Given an array of positive numbers, the task is to find the smallest positive integer value 
-# that cannot be represented as the sum of elements of any subset of a given set. 
+    # Given an array of positive numbers, the task is to find the smallest positive integer value 
+    # that cannot be represented as the sum of elements of any subset of a given set. 
 
 # ------------------------------------------------------------------------------------------------
 

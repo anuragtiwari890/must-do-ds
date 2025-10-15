@@ -5,7 +5,7 @@
 # ------------------------------------------------------------------------------------------------
 
 # problem statement:
-# Given a positive integer N, print the first N natural numbers.
+    # Given a positive integer N, print the first N natural numbers.
 
 # fact about natural numbers:
     # The natural numbers are the ordinary numbers, 1, 2, 3, etc., with which we count.
