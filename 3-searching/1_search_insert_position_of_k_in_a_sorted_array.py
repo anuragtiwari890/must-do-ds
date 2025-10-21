@@ -8,8 +8,8 @@
     # Given a sorted array of distinct integers and a target value, return the index where it would be if it were inserted in order.
 
 # ------------------------------------------------------------------------------------------------
-# Examples: 
 
+# Examples: 
 # Input: arr[] = [1, 3, 5, 6], k = 5
 # Output: 2
 # Explanation: Since 5 is found at index 2 as arr[2] = 5, the output is 2.
