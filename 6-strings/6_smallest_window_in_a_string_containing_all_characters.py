@@ -1,4 +1,4 @@
-# problem link - https://www.geeksforgeeks.org/dsa/smallest-window-in-a-string-containing-all-characters-of-another-string/
+# problem link - https://www.geeksforgeeks.org/dsa/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/
 
 # Smallest window in a String containing all characters of other String
 
